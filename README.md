@@ -1,6 +1,7 @@
 Mobile and Laptop Sales Dashboard
   This project is a comprehensive dashboard built using R programming for analyzing sales data of mobile phones and laptops. It includes interactive charts, visual summaries, and key performance indicators (KPIs)
   to help users gain insights into product performance, sales trends, and customer preferences.
+  
 =====================================================================================================================================================================================================================
 
 🔧 Tech Stack
@@ -50,8 +51,7 @@ Interactive line and bar charts show monthly and yearly sales trends, allowing u
 A searchable and filterable data table lets users explore the underlying sales records. Options to sort, filter, and download the data are included.
 
 ![Screenshot 2025-05-22 232115](https://github.com/user-attachments/assets/9725447f-359c-4590-90f0-26c7cfff3640)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-=====================================================================================================================================================================================================================
+
 
 
 👥 Team Info
@@ -59,3 +59,6 @@ Details about the development team, their roles, and contributions. This adds tr
 
 ![Screenshot 2025-05-22 232122](https://github.com/user-attachments/assets/14b9d900-f1e6-4540-853a-15e6307b2d6e)
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=====================================================================================================================================================================================================================
