@@ -1,8 +1,9 @@
-Mobile and Laptop Sales Dashboard
-  This project is a comprehensive dashboard built using R programming for analyzing sales data of mobile phones and laptops. It includes interactive charts, visual summaries, and key performance indicators (KPIs)
-  to help users gain insights into product performance, sales trends, and customer preferences.
+📈📱💻Mobile and Laptop Sales Dashboard
+
+This project is a comprehensive dashboard built using R programming for analyzing sales data of mobile phones and laptops. It includes interactive charts, visual summaries, and key performance indicators (KPIs)
+to help users gain insights into product performance, sales trends, and customer preferences.
   
-=====================================================================================================================================================================================================================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔧 Tech Stack
   Language: R
@@ -61,4 +62,3 @@ Details about the development team, their roles, and contributions. This adds tr
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-=====================================================================================================================================================================================================================
